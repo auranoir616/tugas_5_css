@@ -1,0 +1,29 @@
+.div_menu{
+  background-color: black;
+}
+
+.menu:link{
+  color: white;
+  text-transform: uppercase;
+
+}
+.menu:visited{
+  color: white;
+}
+
+.slider-div{
+text-align: center;
+}
+
+footer{
+  background-color: black;
+}
+.footer{
+  text-align: center;
+  color: white;
+}
+
+.footer-alamat{
+  text-align: center;
+  color: white;
+}
